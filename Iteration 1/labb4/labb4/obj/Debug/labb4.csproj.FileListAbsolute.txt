@@ -1,0 +1,9 @@
+C:\Users\Marco\C#\labb4\labb4\bin\Debug\labb4.exe.config
+C:\Users\Marco\C#\labb4\labb4\bin\Debug\labb4.exe
+C:\Users\Marco\C#\labb4\labb4\bin\Debug\labb4.pdb
+C:\Users\Marco\C#\labb4\labb4\obj\Debug\labb4.csprojResolveAssemblyReference.cache
+C:\Users\Marco\C#\labb4\labb4\obj\Debug\labb4.exe
+C:\Users\Marco\C#\labb4\labb4\obj\Debug\labb4.pdb
+C:\Users\Marco\Laboration 4\Iteration 1\labb4\labb4\bin\Debug\labb4.exe.config
+C:\Users\Marco\Laboration 4\Iteration 1\labb4\labb4\obj\Debug\labb4.exe
+C:\Users\Marco\Laboration 4\Iteration 1\labb4\labb4\obj\Debug\labb4.pdb
